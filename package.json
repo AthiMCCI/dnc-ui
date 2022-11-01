@@ -29,7 +29,7 @@
     "moment": "^2.29.1",
     "native-base": "^2.15.2",
     "nodemailer": "^6.4.17",
-    "nodemon": "^2.0.6",
+    "nodemon": "^2.0.20",
     "prop-types": "^15.7.2",
     "react": "16.13.1",
     "react-datetime": "^3.0.4",
